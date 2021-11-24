@@ -1,4 +1,4 @@
-module github.com/cosmtrek/air
+module air2
 
 go 1.16
 
